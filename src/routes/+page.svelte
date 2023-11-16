@@ -1,6 +1,10 @@
 <div class="container">
   <div class="intro">
-    <h1>الحب أجمل شئ في الحياة.</h1>
+    <h1 class="love">
+      <span style="color: red;">ال</span><span style="color: black;">ح</span
+      ><span style="color: green;">ب</span>
+    </h1>
+    <h1>أجمل شئ في الحياة.</h1>
   </div>
 </div>
 
@@ -10,10 +14,13 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-  }
-  .intro {
     direction: rtl;
-    color: white;
+    color: green;
     font-size: 3rem;
+    gap: 10px;
+
+    .love {
+      background-color: white;
+    }
   }
 </style>

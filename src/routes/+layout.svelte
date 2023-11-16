@@ -19,7 +19,7 @@
 </main>
 
 <footer>
-  <p>تم التصميم بواسطة صيفة للإنتاج الفني {year}</p>
+  <p>تم التصميم بواسطة محمد ياسر. {year}</p>
 </footer>
 
 <style lang="scss">
@@ -55,6 +55,6 @@
     padding: 0.5rem;
     color: white;
     user-select: none;
-    background-color: rebeccapurple;
+    background-color: green;
   }
 </style>
