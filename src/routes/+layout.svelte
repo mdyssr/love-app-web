@@ -3,6 +3,10 @@
   const year = new Date().getFullYear();
 </script>
 
+<svelte:head>
+  <title>الحب: فلسطين</title>
+</svelte:head>
+
 <nav>
   <ul>
     <li>
@@ -19,7 +23,7 @@
 </main>
 
 <footer>
-  <p>تم التصميم بواسطة محمد ياسر. {year}</p>
+  <p>🇵🇸 تم التصميم بواسطة محمد ياسر. {year} 🇵🇸</p>
 </footer>
 
 <style lang="scss">
@@ -53,8 +57,8 @@
     justify-content: center;
     align-items: center;
     padding: 0.5rem;
-    color: green;
+    color: white;
     user-select: none;
-    // background-color: green;
+    // background-color: black;
   }
 </style>

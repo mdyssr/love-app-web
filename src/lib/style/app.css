@@ -9,5 +9,5 @@ body {
   font-family: "Rubik", sans-serif;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  background-color: #000;
+  background-color: green;
 }

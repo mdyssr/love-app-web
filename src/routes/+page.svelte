@@ -1,10 +1,9 @@
 <div class="container">
   <div class="intro">
-    <h1 class="love-word">
-      <span style="color: red;">ال</span><span style="color: black;">ح</span
-      ><span style="color: green;">ب</span>
+    <h1 class="love-text">
+      <span class="red">الحب</span> <span>أجمل</span> <span>شئ</span>
+      <span class="white">في الحياة</span><span class="green">.</span>
     </h1>
-    <h1 class="love">أجمل شئ في الحياة.</h1>
   </div>
 </div>
 
@@ -18,13 +17,26 @@
     color: green;
     font-size: 3rem;
     gap: 10px;
+  }
 
-    .love-word {
-      background-color: white;
-    }
+  .love-text {
+    padding: 1rem;
+    background-color: black;
+  }
 
-    .love {
-      color: white;
-    }
+  .red {
+    color: red;
+  }
+
+  .black {
+    color: black;
+  }
+
+  .white {
+    color: white;
+  }
+
+  .green {
+    color: green;
   }
 </style>
