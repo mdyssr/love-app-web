@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>الحب: فلسطين</title>
+</svelte:head>
+
 <div class="container">
   <h3>🇵🇸❤️ ستتم إضافة الصفحة قريبًا</h3>
 </div>

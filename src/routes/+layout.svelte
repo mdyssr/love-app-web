@@ -4,13 +4,13 @@
 </script>
 
 <svelte:head>
-  <title>الحب: فلسطين</title>
+  <title>الحب: الرئيسية</title>
 </svelte:head>
 
 <nav>
   <ul>
     <li>
-      <a href="/contact">ادعم فلسطين</a>
+      <a class="support" href="/contact">ادعم فلسطين</a>
     </li>
     <li>
       <a href="/">الرئيسية</a>
@@ -49,6 +49,13 @@
       text-decoration: none;
       color: white;
       font-size: 1rem;
+    }
+
+    a.support {
+      text-decoration: underline;
+      text-decoration-color: red;
+      // text-decoration-thickness: 6px;
+      text-decoration-style: double;
     }
   }
 

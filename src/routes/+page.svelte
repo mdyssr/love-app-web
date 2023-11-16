@@ -1,8 +1,10 @@
 <div class="container">
   <div class="intro">
     <h1 class="love-text">
-      <span class="red">الحب</span> <span>أجمل</span> <span>شئ</span>
-      <span class="white">في الحياة</span><span class="green">.</span>
+      <span class="green">الحب</span>
+      <span class="white">أجمل</span>
+      <span class="white">شئ في</span>
+      <span class="green">الحياة</span>
     </h1>
   </div>
 </div>
@@ -14,7 +16,6 @@
     align-items: center;
     height: 100%;
     direction: rtl;
-    color: green;
     font-size: 3rem;
     gap: 10px;
   }
