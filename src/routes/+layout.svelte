@@ -6,7 +6,7 @@
 <nav>
   <ul>
     <li>
-      <a href="/contact">اتصل بنا</a>
+      <a href="/contact">ادعم فلسطين</a>
     </li>
     <li>
       <a href="/">الرئيسية</a>
@@ -53,8 +53,8 @@
     justify-content: center;
     align-items: center;
     padding: 0.5rem;
-    color: white;
+    color: green;
     user-select: none;
-    background-color: green;
+    // background-color: green;
   }
 </style>
