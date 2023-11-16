@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Rubik", sans-serif;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  background-color: #000;
+}
